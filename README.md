@@ -1,3 +1,3 @@
 # Building-Generative-Apps-with-Gradio
 
-## 1. App summarization using Hugging face model
+## 1. Text summarization app using Hugging face model
